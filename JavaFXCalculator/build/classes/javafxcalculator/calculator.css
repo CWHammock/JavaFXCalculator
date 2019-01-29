@@ -1,0 +1,9 @@
+/*CSS sheet for Calculator program*/
+
+
+.root{
+  -fx-border-color: white;
+  -fx-border-width: 5px;
+  -fx-background-color: cornsilk;
+    
+}
